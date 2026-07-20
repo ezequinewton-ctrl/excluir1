@@ -1,0 +1,287 @@
+{
+  "Assuntos": [
+    {
+      "Assunto": "Termometria",
+      "Questoes": [
+        {
+          "N_Questao_Prova": 11,
+          "N_Questao_BQ": 26,
+          "Altura_da_imagem": 0,
+          "Tamanho_dos_calculos": 9.339791666654603,
+          "Peso": null,
+          "Quesitos": [
+            {
+              "id": "a",
+              "Peso": 1
+            },
+            {
+              "id": "b",
+              "Peso": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Assunto": "Dilatação térmica",
+      "Questoes": [
+        {
+          "N_Questao_Prova": 12,
+          "N_Questao_BQ": 23,
+          "Altura_da_imagem": 1.6933333333311462,
+          "Tamanho_dos_calculos": 7.937499999989748,
+          "Peso": null,
+          "Quesitos": [
+            {
+              "id": "Q",
+              "Peso": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Assunto": "Transferência de calor",
+      "Questoes": [
+        {
+          "N_Questao_Prova": 13,
+          "N_Questao_BQ": 44,
+          "Altura_da_imagem": 0,
+          "Tamanho_dos_calculos": 8.334374999989235,
+          "Peso": null,
+          "Quesitos": [
+            {
+              "id": "Q",
+              "Peso": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Assunto": "Gás ideal",
+      "Questoes": [
+        {
+          "N_Questao_Prova": 14,
+          "N_Questao_BQ": 8,
+          "Altura_da_imagem": 1.6139583333312486,
+          "Tamanho_dos_calculos": 10.66270833331956,
+          "Peso": null,
+          "Quesitos": [
+            {
+              "id": "a",
+              "Peso": 0.5
+            },
+            {
+              "id": "b",
+              "Peso": 1.5
+            },
+            {
+              "id": "c",
+              "Peso": 0.75
+            },
+            {
+              "id": "d",
+              "Peso": 1.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Assunto": "1ª lei da termodinâmica",
+      "Questoes": [
+        {
+          "N_Questao_Prova": 15,
+          "N_Questao_BQ": 230,
+          "Altura_da_imagem": 8.78416666665532,
+          "Tamanho_dos_calculos": 14.76374999998093,
+          "Peso": null,
+          "Quesitos": [
+            {
+              "id": "a",
+              "Peso": 0.2
+            },
+            {
+              "id": "b",
+              "Peso": 0.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Assunto": "Teoria térmica",
+      "Questoes": [
+        {
+          "N_Questao_Prova": 16,
+          "N_Questao_BQ": 231,
+          "Altura_da_imagem": 7.990416666656346,
+          "Tamanho_dos_calculos": 32.86124999995756,
+          "Peso": 2.5,
+          "Quesitos": [
+            {
+              "id": "aa",
+              "Peso": null
+            },
+            {
+              "id": "m",
+              "Peso": null
+            },
+            {
+              "id": "ae",
+              "Peso": null
+            },
+            {
+              "id": "k",
+              "Peso": null
+            },
+            {
+              "id": "t",
+              "Peso": null
+            },
+            {
+              "id": "q",
+              "Peso": null
+            },
+            {
+              "id": "v",
+              "Peso": null
+            },
+            {
+              "id": "n",
+              "Peso": null
+            },
+            {
+              "id": "f",
+              "Peso": null
+            },
+            {
+              "id": "af",
+              "Peso": null
+            },
+            {
+              "id": "ai",
+              "Peso": null
+            },
+            {
+              "id": "p",
+              "Peso": null
+            },
+            {
+              "id": "c",
+              "Peso": null
+            },
+            {
+              "id": "x",
+              "Peso": null
+            },
+            {
+              "id": "aj",
+              "Peso": null
+            },
+            {
+              "id": "r",
+              "Peso": null
+            },
+            {
+              "id": "z",
+              "Peso": null
+            },
+            {
+              "id": "ab",
+              "Peso": null
+            },
+            {
+              "id": "o",
+              "Peso": null
+            },
+            {
+              "id": "a",
+              "Peso": null
+            },
+            {
+              "id": "ac",
+              "Peso": null
+            },
+            {
+              "id": "e",
+              "Peso": null
+            },
+            {
+              "id": "j",
+              "Peso": null
+            },
+            {
+              "id": "w",
+              "Peso": null
+            },
+            {
+              "id": "h",
+              "Peso": null
+            },
+            {
+              "id": "ad",
+              "Peso": null
+            },
+            {
+              "id": "y",
+              "Peso": null
+            },
+            {
+              "id": "b",
+              "Peso": null
+            },
+            {
+              "id": "s",
+              "Peso": null
+            },
+            {
+              "id": "ah",
+              "Peso": null
+            },
+            {
+              "id": "ag",
+              "Peso": null
+            },
+            {
+              "id": "i",
+              "Peso": null
+            },
+            {
+              "id": "u",
+              "Peso": null
+            },
+            {
+              "id": "l",
+              "Peso": null
+            },
+            {
+              "id": "g",
+              "Peso": null
+            },
+            {
+              "id": "d",
+              "Peso": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Versão": "1",
+  "Dados": "\\( \\)\\( \\alpha \\approx 1{,}7 \\times 10^{-5}\\ \\text{°C}^{-1} \\) ; \\(T(K) = T(°C) + 273,15\\) ; \\(c_{H_2O} = 1,00\\ \\text{cal/g.°C} = 4,184\\times10^{3}\\ \\frac{J}{kg\\cdot K}\\) ; \\( \\rho = 1,00\\times10^{3}\\frac{kg}{m^{3}}\\) ; \\(R = 8,31\\frac{J}{mol\\cdot K}\\) ; \\(N_{A} = 6,02\\times10^{23}\\,mol^{-1}\\) ; \\(p_{atm} = 1\\ atm\\) ;\\(c = 1,00\\ \\text{cal/g·°C} = 4,184\\times10^{3}\\ \\frac{J}{kg\\cdot K}\\)k ; \\( \\alpha_{Cu} \\approx 1,7\\times10^{-5}K^{-1}\\) ; \\(T(K) = T(°C) + 273\\) ; \\(c_{H_2O} = 1,00\\ \\text{cal/g·°C} = 4,2\\times10^{3}\\frac{J}{kg\\cdot K}\\) ; \\( \\rho_{H_2O} = 1,00\\times10^{3}\\frac{kg}{m^{3}}\\) ; \\(p_{atm} = 1atm\\) ;\\(g = 10\\frac{m}{s^{2}}\\) ; ",
+  "Formulas": "$ $\\( \\frac{T_{C}}{5} = \\frac{T_{F} - 32}{9} \\) ; \\( \\Delta L = L_{0}\\alpha\\Delta T \\) ; \\( Q = mL \\) ; \\( Q = mc\\Delta T \\) ; \\( C = \\frac{Q}{\\Delta T} = mc \\) ; \\( pV = nRT \\) ; \\( \\frac{p_{1}V_{1}}{T_{1}} = \\frac{p_{2}V_{2}}{T_{2}} \\) ; \\( W = p\\Delta V \\) ; \\( \\Delta U = Q - W \\) ; \\( W = \\int \\vec F\\cdot d\\vec s \\) ; \\( \\vec F_{R} = m\\vec a \\) ; \\( f_{at} = \\mu N \\) ; \\( P = mg \\) ; ",
+  "N_Questao_Inicial": "11",
+  "nAval_Val": "2ª",
+  "tipoAval_Val": "RECUPERAÇÃO",
+  "parteAval_Val": "",
+  "Numero_Tipo_Parte_da_Avaliacao": "\n\t\t\t\t\t\t\t<select id=\"nAvalHeader\" class=\"spanInput editaveis\" style=\"width:fit-content; cursor: pointer;\" value=\"1ª\">\n\t\t\t\t\t\t\t\t<option value=\"1ª\">1ª</option>\n\t\t\t\t\t\t\t\t<option value=\"2ª\">2ª</option>\n\t\t\t\t\t\t\t\t<option value=\"3ª\">3ª</option>\n\t\t\t\t\t\t\t\t<option value=\"4ª\">4ª</option>\n\t\t\t\t\t\t\t\t<option value=\"5ª\">5ª</option>\n\t\t\t\t\t\t\t</select>\n\n\t\t\t\t\t\t\t<select id=\"tipoAval\" onclick=\"if(this.value === 'RECUPERAÇÃO') document.getElementById('instucRec').style.display = 'block'; else document.getElementById('instucRec').style.display = 'none';\" class=\"spanInput editaveis\" style=\"width:fit-content; cursor: pointer;\" value=\"RECUPERAÇÃO\">\n\t\t\t\t\t\t\t\t<option value=\"AVALIAÇÃO\">AVALIAÇÃO</option>\n\t\t\t\t\t\t\t\t<option value=\"RECUPERAÇÃO\">RECUPER.</option>\n\t\t\t\t\t\t\t\t<option value=\"REPOSIÇÃO\">REPOSIÇÃO</option>\n\t\t\t\t\t\t\t</select>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<select id=\"parteAval\" class=\"spanInput editaveis\" style=\"width:fit-content; cursor: pointer;\" value=\"\">\n\t\t\t\t\t\t\t\t<option value=\"\"></option>\n\t\t\t\t\t\t\t\t<option value=\"- parte 1\">- parte 1</option>\n\t\t\t\t\t\t\t\t<option value=\"- parte 2\">- parte 2</option>\n\t\t\t\t\t\t\t\t<option value=\"- parte 3\">- parte 3</option>\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t</select>\n\n\t\t\t\t\t\t",
+  "Turma": "EMI Edificações 1",
+  "Nome_do_professor": "Ezequiel Melo",
+  "divIntrEVF_Width": "",
+  "divVFcontinente_Height": "347px",
+  "divNumberTable_Width": "",
+  "Ano_e_Semestre": "2026.1",
+  "Data_hora": "Thu Jul 16 2026 19:03:29 GMT-0300 (Horário Padrão de Brasília)"
+}
