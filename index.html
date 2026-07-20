@@ -3033,7 +3033,7 @@
          		s = removeTrailingZerosComma(s);
          		return s;
          		}
-         	}),input];
+		}),unique];
          	}
          
          
@@ -4408,16 +4408,20 @@
 						.filter(item => Array.isArray(item) && item.length >= 2)
 						.map(([chaveGabarito, correta], indiceGabarito) => {
 							const indiceModeloEncontrado = quesitosModelo.findIndex(quesito => String(quesito.id) === String(chaveGabarito));
-							const indiceModelo = indiceModeloEncontrado >= 0 ? indiceModeloEncontrado : indiceGabarito;
-							const sufixo = quesitosModelo.length > 1 ? letraDoQuesito(indiceModelo) : '';
 							return {
 								chave: `${indiceQuestao}:${indiceGabarito}:${String(chaveGabarito)}`,
-								rotulo: `${numero}${sufixo}`,
+								chaveGabarito: String(chaveGabarito),
 								correta,
 								indiceQuestao,
-								indiceModelo,
-								chaveGabarito: String(chaveGabarito)
+								indiceModelo: indiceModeloEncontrado,
+								indiceGabarito
 							};
+						})
+						.filter(item => item.indiceModelo >= 0)
+						.map(item => {
+							const sufixo = quesitosModelo.length > 1 ? letraDoQuesito(item.indiceModelo) : '';
+							item.rotulo = `${numero}${sufixo}`;
+							return item;
 						});
 				});
 			}
@@ -4434,7 +4438,7 @@
 				/* Reutiliza a mesma geração de distratores e formatação da prova. */
 				const valoresGerados = encherLinguicaGabarito(valores, fatorDiferenciador);
 				const [formatados, originais] = formatarGabaritoTabela(valoresGerados);
-				const ordenados = originais.slice().sort((a, b) => a - b);
+				const ordenados = originais;
 				return formatados.map((texto, indice) => ({ texto, valor: ordenados[indice] }));
 			}
 
